@@ -1,0 +1,31 @@
+_repo: Haririus-latinus-sive-Mohammedis-Alcasemi-filius-Alii-filius-Mohammedis-filius-Otmani-Hariri-__69275
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Peiper, Carl Rudolf Samuel
+    gutenberg_agent_id: '55192'
+    url: http://www.gutenberg.org/2009/agents/55192
+creator:
+  author:
+    agent_name: al-Hariri, Abu Muhammad al-Qasim ibn Ali
+    gutenberg_agent_id: '55191'
+    url: http://www.gutenberg.org/2009/agents/55191
+description: ''
+gutenberg_issued: '2022-10-31'
+identifiers:
+  gutenberg: '69275'
+language: la
+pgterms:marc904: https://books.google.fr/books?id=87BCAAAAcAAJ
+pgterms:marc905: 20220913075758alqasimibn
+pgterms:marc906: '1832'
+pgterms:marc907: PL
+production_note: Aurēliānus Agricola
+publication_note: 'Poland: Carl Wilhelm Immanuel Krahn,1832,pubdate 1836.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Haririus latinus: sive Mohammedis Alcasemi, filius Alii, filius Mohammedis,
+  filius Otmani, Hariri bazrensis, haramensis, narrationes consessuum nomine celebratae'
+url: http://www.gutenberg.org/ebooks/69275
